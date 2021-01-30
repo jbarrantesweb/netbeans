@@ -8,7 +8,8 @@
     </head>
     <body>
         <?php
-            echo "Proyecto de prueba para la práctica de Git";       
+            echo "Proyecto de prueba para la práctica de Git";  
+            $var = "nuevo";
         ?>
     </body>
 </html>
